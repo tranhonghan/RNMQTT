@@ -1,0 +1,6 @@
+module Pods_RNMQTT_RNMQTTTests {
+  umbrella header "Pods-RNMQTT-RNMQTTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
